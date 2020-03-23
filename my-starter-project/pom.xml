@@ -11,7 +11,7 @@
 		<vaadin.version>8.3.3</vaadin.version>
 		<vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
 		<!-- TomEE < 7.0.4 has a conflict with Shiro 1.4.0 -->
-		<shiro.version>1.4.0-RC2</shiro.version>
+		<shiro.version>1.5.1</shiro.version>
 		<deltaspike.version>1.8.0</deltaspike.version>
 		<wildfly.plugin.version>1.2.1.Final</wildfly.plugin.version>
 		<tomee.plugin.version>7.0.3</tomee.plugin.version>
