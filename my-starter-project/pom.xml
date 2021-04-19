@@ -8,7 +8,7 @@
 	<name>My Starter Project</name>
 
 	<properties>
-		<vaadin.version>8.3.3</vaadin.version>
+		<vaadin.version>8.12.3</vaadin.version>
 		<vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
 		<!-- TomEE < 7.0.4 has a conflict with Shiro 1.4.0 -->
 		<shiro.version>1.4.0-RC2</shiro.version>
